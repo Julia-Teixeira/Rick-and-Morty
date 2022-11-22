@@ -13,3 +13,9 @@ header div nav {
   display: flex;
   gap: 1rem;
 }
+
+@media (max-width: 394px) {
+  header div {
+    flex-direction: column;
+  }
+}
