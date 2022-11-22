@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "Get-Schwifty";
+  src: url("../assets/fonts/get_schwifty.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Shlop Rg";
+  src: url("../assets/fonts/shlop\ rg.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+.title1 {
+  font-family: "Shlop Rg", sans-serif;
+  font-size: 2.5rem;
+}
+
+.text {
+  font-family: "Get-Schwifty", sans-serif;
+  font-size: 1.5rem;
+}

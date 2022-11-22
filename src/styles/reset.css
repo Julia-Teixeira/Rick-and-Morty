@@ -1,0 +1,26 @@
+h1,
+h2,
+h3,
+h4,
+p,
+span,
+div,
+section,
+article,
+body,
+main,
+header,
+footer,
+ul,
+ol,
+li {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul,
+ol,
+li {
+  list-style: none;
+}
