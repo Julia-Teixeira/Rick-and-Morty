@@ -4,3 +4,12 @@ h1 {
 header {
   box-shadow: 0px 6px 5px 0px rgba(0, 0, 0, 0.32);
 }
+header div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+header div nav {
+  display: flex;
+  gap: 1rem;
+}
